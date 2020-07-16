@@ -1,4 +1,4 @@
-[TOC]
+## Table of Contents
 
 # Текущее положение дел
 
